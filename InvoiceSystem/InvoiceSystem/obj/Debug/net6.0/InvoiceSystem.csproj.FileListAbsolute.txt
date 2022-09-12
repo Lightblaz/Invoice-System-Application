@@ -1,0 +1,126 @@
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.exe
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.deps.json
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.runtimeconfig.json
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.pdb
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.AssemblyInfo.cs
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\scopedcss\bundle\InvoiceSystem.styles.css
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.csproj.CopyComplete
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\refint\InvoiceSystem.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.pdb
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.genruntimeconfig.cache
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\ref\InvoiceSystem.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\DAL.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\DAL.pdb
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\user\source\repos\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\appsettings.Development.json
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\appsettings.json
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.exe
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.deps.json
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.runtimeconfig.json
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\InvoiceSystem.pdb
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\AutoMapper.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\DAL.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\bin\Debug\net6.0\DAL.pdb
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.csproj.AssemblyReference.cache
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.AssemblyInfoInputs.cache
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.AssemblyInfo.cs
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.csproj.CoreCompileInputs.cache
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\staticwebassets.build.json
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\staticwebassets.development.json
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\scopedcss\bundle\InvoiceSystem.styles.css
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.csproj.CopyComplete
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\refint\InvoiceSystem.dll
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.pdb
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\InvoiceSystem.genruntimeconfig.cache
+E:\invoice aplication\InvoiceSystem\InvoiceSystem\obj\Debug\net6.0\ref\InvoiceSystem.dll
