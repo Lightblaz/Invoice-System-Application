@@ -1,0 +1,5 @@
+<p style="text-align:center">Delete cusomter</p>
+<form #userPost="ngForm" (ngSubmit)="onSubmit(userPost.value)">
+    <input type="text" name="id" ngModel placeholder="Customer ID">
+    <button type="submit">Delete customer Data</button>
+</form>

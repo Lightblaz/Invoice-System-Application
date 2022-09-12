@@ -1,0 +1,45 @@
+<h1>Call Post API in Angular</h1>
+<br>
+
+<form [formGroup]="addProdForm" (ngSubmit)="onSubmit(null)">
+    <div>
+        <label class="form-label">Product ID</label>
+        <input class="form-control" placeholder="Product ID" formControlName="id">
+    </div>
+    <div>
+        <label class="form-label">Product Name</label>
+        <input class="form-control" placeholder="product name" formControlName="name">
+    </div>
+    <div>
+        <label class="form-label">Description</label>
+        <input class="form-control" placeholder="Description" formControlName="description">
+    </div>
+    <div>
+        <label class="form-label">Purchase Price</label>
+        <input class="form-control" placeholder="Purchase price" formControlName="purchaseprice">
+    </div>
+    <div>
+        <label class="form-label">Selling Price</label>
+        <input class="form-control" placeholder="Selling Price" formControlName="sellingprice">
+    </div>
+    <div>
+        <label class="form-label">Quantity</label>
+        <input class="form-control" placeholder="quanity" formControlName="quantity">
+    </div>
+    <button type="submit">Add</button>
+</form>
+
+
+<!-- <form #userPost="ngForm" (ngSubmit)="onSubmit(userPost.value)"> -->
+
+
+<!-- <form #userPost="ngForm" (ngSubmit)="onSubmit(userPost.value)">
+<input type="int" name="id" ngModel placeholder="Customer ID" formControlName="cusId"> <br><br>
+<input type="text" name="name" ngModel placeholder="Customer Name"> <br><br>
+<input type="text" name="email" ngModel placeholder="Email"> <br><br>
+<input type="text" name="address" ngModel placeholder="Address"> <br><br>
+<input type="text" name="number" ngModel placeholder="Contact Number"> <br><br>
+<input type="date" name="dob" ngModel placeholder="Date Of Birth"> <br><br>
+<input type="text" name="gender" ngModel placeholder="Gender"> <br><br>
+<button type="submit">Submit Data</button>
+</form> -->

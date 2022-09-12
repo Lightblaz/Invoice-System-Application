@@ -1,0 +1,49 @@
+<h1 style="text-align: center">Customer</h1>
+
+<button style="float: right" (click)="homeClick()">Home</button>
+<table class="table">
+    <thead class="thead-dark">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Number</th>
+            <th>DOB</th>
+            <th>Gender</th> 
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+
+    <tr *ngFor="let cus of customers">
+        <td>{{cus.id}}</td>
+        <td>{{cus.name}}</td>
+        <td>{{cus.email}}</td>
+        <td>{{cus.address}}</td>
+        <td>{{cus.number}}</td> 
+        <td>{{cus.dOB}}</td>
+        <td>{{cus.gender}}</td>
+        <td>
+            <button (click)="customerAddClick(cus)">Edit</button>
+        </td>
+        <td>
+            <button class="btn btn-danger" (click)="customerDeleteClick(cus)">Delete</button>
+        </td>
+    </tr>
+    
+    <!-- <tr>
+        <td>{{custo.id}}</td>
+        <td>{{custo.name}}</td>
+        <td>{{custo.email}}</td>
+        <td>{{custo.address}}</td>
+        <td>{{custo.number}}</td>
+        <td>{{custo.dOB}}</td>
+        <td>{{custo.gender}}</td>
+    </tr> -->
+</table>
+
+<button (click)="customerAddClick(null)">Add Customer</button>
+<button (click)="customerDeleteClick(null)">Delete Customer</button>
+<!-- <button (click)="callcustomer()">Get Customer By Id</button> -->
+<!-- <button (click)="CallAllCustomers()">Get All Customers</button> -->
